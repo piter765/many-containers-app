@@ -10,7 +10,7 @@ function App() {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>Welcome to React</p>
+          <p>Fibonacci calculator</p>
           <Link to="/">Home</Link>
           <Link to="/otherPage">Other page</Link>
         </header>
